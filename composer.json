@@ -18,7 +18,7 @@
     "extra": {
         "laravel": {
             "providers":[
-              "AaronLee\\SJunitLaravel\\Providers\\SJunitProvider"
+              "AaronLee\\SJunitLaravel\\Providers\\SJunitServiceProvider"
             ]
         }
     }
